@@ -13,4 +13,3 @@ el dashboard que se elaboro se tomaron los datos de finalizacion de actividades 
 para temas de contratacion se uso un grafico circular el cual nos indica por vacante disponible cuales es el numero de recaudacion por apps de reclutamiento , lo cual dara idea de que app usar para solicitar las vacantes en linea
 en el ultimo grafico se contabilizo por separado la cantidad de empleados y empleadas se tiene por departamento, esto podria utilizarse para al momento de tener en cuenta una contratacion revisar la cantidad de empleados se tiene y poder tener una equidad de genero si asi fuera requerido.
 
-https://public.tableau.com/app/profile/moises.manzo.martinez/viz/ejerciciocurso_17496756298260/Dashboard1?publish=yes
